@@ -7,7 +7,7 @@ int hieu(int a, int b){
 }
 int tong(int a, int b){
 	int sum = 0;
-	sum = a + b;
+	sum = float(a + b);
 	return sum;
 }
 int tich(int a, int b){
