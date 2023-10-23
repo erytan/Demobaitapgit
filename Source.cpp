@@ -14,7 +14,10 @@ int tich(int a, int b){
 	int tich = 0;
 	return tich = a * b ;
 }
-float thuong(int a, int b);
+float thuong(int a, int b){
+	float thuong = 0;
+	return thuong = a/b;
+}
 int main()
 {
 	int a , int b;
@@ -26,6 +29,7 @@ int main()
 	cout << "Tong la" <<tong(a,b)<<endl;
 	cout << "HIEU A VA B" << hieu(a,b)<<endl;
 	cout << " tich la " << tich (a,b)<<endl;
+	cout << " Thuong la " << thuong(a,b)<<endl;
 	system("pause");
 	return 0;
 }
