@@ -3,7 +3,7 @@
 using namespace std;
 int tong(int a, int b);
 int hieu(int a, int b){
-	int x
+	int x;
 	return x=a-b; 
 }
 int tich(int a, int b);
