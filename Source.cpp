@@ -12,7 +12,6 @@ int hieu(int a, int b){
 	int x
 	return x=a-b; 
 }
->>>>>>> 93eea8b28605b707c9375a944844288123a4f189
 int tich(int a, int b);
 float thuong(int a, int b);
 int main()
